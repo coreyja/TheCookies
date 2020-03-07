@@ -23,7 +23,12 @@
       "**/*"
     ],
     "ios": {
+      "bundleIdentifier": "com.coreyja.thecookies",
       "supportsTablet": true
+    },
+    "android": {
+      "package": "com.coreyja.thecookies",
+      "versionCode": 1
     }
   }
 }
